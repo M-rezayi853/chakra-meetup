@@ -7,7 +7,7 @@ import Fonts from '../public/fonts'
 function MyApp({ Component, pageProps }) {
   // IF COLOR MODE NOT WORKING
   const config = {
-    initialColorMode: 'dark',
+    initialColorMode: 'light',
     useSystemColorMode: false,
   }
 
